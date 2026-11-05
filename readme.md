@@ -1,3 +1,5 @@
+<p align="center"><b>Community reference · Personal fork</b><br>Upstream: <a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> · <a href="FORK.md">About this fork</a></p>
+
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
